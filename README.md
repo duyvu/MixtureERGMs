@@ -12,7 +12,7 @@ The corresponding research paper was published in Annals of Applied Statistics, 
 
 3. Download boost library from http://www.boost.org/users/download/ and unzip the file. No compilation for boost library is needed.
 
-4. Specify directories in the file "makefile":
+4. Specify directories in the file **makefile**:
 	a. HBOOST : path to where you unzip the boost library
 	b. HRLIB : path to R header files, e.g. /usr/share/R/include
 	c. HMYDIR : path to the source folder, i.e to the upzipped directory + /src
@@ -22,17 +22,17 @@ The corresponding research paper was published in Annals of Applied Statistics, 
 
 ## Run the code:
 
-1. Examples are in the file exampleCommands.txt
+1. Examples are in the file **exampleCommands.txt**
 
-2. Sample data sets are in directory data:
+2. Sample data sets are in directory **data**:
 
-... a. **Epinions** from Paolo Massa and Kasper Souren of trustlet.org.
+    a. **Epinions** from Paolo Massa and Kasper Souren of trustlet.org.
 
 Massa, P., and Avesani, P. (2007), “Trust metrics on controversial users: balancing be-
 tween tyranny of the majority and echo chambers,” International Journal on Semantic
 Web and Information Systems.
 
-... b. **PolBlogs**:
+    b. **PolBlogs**:
 
 Adamic, L. and Glance, N. (2005). The political blogosphere and the 2004 US election:
 Divided they blog. In Proceedings of the 3rd International Workshop on Link Discovery
