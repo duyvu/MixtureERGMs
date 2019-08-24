@@ -14,13 +14,13 @@ The corresponding research paper was published in Annals of Applied Statistics, 
 
 4. Specify directories in the file **makefile**:
 
-a. HBOOST : path to where you unzip the boost library
+* HBOOST : path to where you unzip the boost library
 
-b. HRLIB : path to R header files, e.g. /usr/share/R/include
+* HRLIB : path to R header files, e.g. /usr/share/R/include
 
-c. HMYDIR : path to the source folder, i.e to the upzipped directory + /src
+* HMYDIR : path to the source folder, i.e to the upzipped directory + /src
 
-d. RLIB = path to the directory containing compiled libraries of R, e.g. /usr/lib/R/lib
+* RLIB = path to the directory containing compiled libraries of R, e.g. /usr/lib/R/lib
 
 5. Run "make"
 
