@@ -26,13 +26,13 @@ The corresponding research paper was published in Annals of Applied Statistics, 
 
 2. Sample data sets are in directory data:
 
-...a. **Epinions** from Paolo Massa and Kasper Souren of trustlet.org.
+... a. **Epinions** from Paolo Massa and Kasper Souren of trustlet.org.
 
 Massa, P., and Avesani, P. (2007), “Trust metrics on controversial users: balancing be-
 tween tyranny of the majority and echo chambers,” International Journal on Semantic
 Web and Information Systems.
 
-...b. **PolBlogs**:
+... b. **PolBlogs**:
 
 Adamic, L. and Glance, N. (2005). The political blogosphere and the 2004 US election:
 Divided they blog. In Proceedings of the 3rd International Workshop on Link Discovery
